@@ -28,6 +28,3 @@ Frontend da plataforma de recrutamento, desenvolvido em React e Next.js, que per
 - Executar o comando "<strong>npm install</strong>" no terminal para baixar as dependencias do projeto
 - Executar o comando "<strong>npm run dev</strong>" no terminal para rodar
 
-## O projeto roda por padrão na porta 3000, é só abrir o navegador de digitar "localhost:3000" para abrir a página inicial do projeto
-
-
